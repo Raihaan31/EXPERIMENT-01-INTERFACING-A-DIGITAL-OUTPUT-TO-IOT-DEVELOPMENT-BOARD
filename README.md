@@ -329,6 +329,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OFF:
 <img width="720" height="1280" alt="WhatsApp Image 2026-07-29 at 11 43 35 AM" src="https://github.com/user-attachments/assets/7ae44157-8229-4447-bbff-93217f6f07a0" />
+
 ## ON :
 <img width="720" height="1280" alt="WhatsApp Image 2026-07-29 at 11 43 36 AM" src="https://github.com/user-attachments/assets/3d6f0776-dc75-49af-9e27-8b03e32cb672" />
 
